@@ -204,3 +204,8 @@ Exercise and body-pose information used by the POSEPERFECT system for real-time 
 Reference for integrating pose estimation, exercise monitoring, posture-error detection, and real-time corrective feedback.
 
 ---
+
+
+
+
+**FEATCHED DATA SET LINK** : https://www.kaggle.com/datasets/emvega/gym-data-yolo-pose
